@@ -6,6 +6,9 @@ https://gist.github.com/chrisbuckleycode
 
 ## Gists
 
+Virtualenv / venv Cheat Sheet
+https://gist.github.com/chrisbuckleycode/e4a8d329501d1e0d24eacff1f11a785e
+
 Temporary SSH/SFTP Enable
 https://gist.github.com/chrisbuckleycode/73b236cdeca52b1e5624c1946d6ac5da
 
