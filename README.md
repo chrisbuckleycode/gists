@@ -33,6 +33,7 @@ https://gist.github.com/chrisbuckleycode/9483d1c1f057283bec2d556b13e23f68
 ## Links (giving credit where due instead of copying)
 
 Create new Python project including venv, README.md, .gitignore. Uses argparse, subprocess
+(search strings: Path.cwd(), .touch(), f.write, subprocess.run, CalledProcessError, TimeoutExpired)
 https://realpython.com/python-subprocess/
 
 venv/virtualenv all variations explanation
