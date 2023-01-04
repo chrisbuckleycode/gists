@@ -6,6 +6,9 @@ https://gist.github.com/chrisbuckleycode
 
 ## Gists
 
+Python Cheat Sheet
+https://gist.github.com/chrisbuckleycode/4a523d6e00c2abc177bbd08aa2053180
+
 Virtualenv / venv Cheat Sheet
 https://gist.github.com/chrisbuckleycode/e4a8d329501d1e0d24eacff1f11a785e
 
